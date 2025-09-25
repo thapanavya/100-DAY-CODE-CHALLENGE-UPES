@@ -1,6 +1,6 @@
 //Write a program to convert temperature from Celsius to Fahrenheit.
-#include <stdio.h>
 
+#include <stdio.h>
 int main() {
     float celsius, fahrenheit;
 
@@ -13,4 +13,5 @@ int main() {
 
     return 0;
 }
+
 
