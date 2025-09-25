@@ -1,4 +1,5 @@
-//Write a program to input two numbers and display their sum
+//Write a program to input two numbers and display their sum.
+
 #include <stdio.h>
 int main() {
     int num1, num2, sum;
@@ -12,4 +13,5 @@ int main() {
 
     return 0;
 }
+
 
